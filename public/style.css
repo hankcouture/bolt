@@ -17,7 +17,7 @@ nav {
 	width: 100%;
 	position: fixed;
 	height: 50px;
-	background-color: #4c90ffff;
+	background-color: #4c90ff;
 	/*border-bottom: 1px solid #e5e5e5;*/
 	margin-top: 0px;
 }
@@ -269,6 +269,19 @@ nav h1 {
 	text-decoration: none;
 }
 
+.social-icons {
+	float: right;
+}
+
+.social-icons svg {
+	float: left;
+	height: 22px; 
+	width: 22px; 
+	display: block; 
+	margin: 1px 10px;
+	fill: rgb(118, 118, 118);
+}
+
 .row {
 	margin: 0;
 	overflow: auto;
@@ -287,12 +300,14 @@ nav h1 {
 	text-align: left;
     font-size: 14px;
     margin-bottom: 0;
+    float: left;
 }
 
 .made-in-chicago {
 	float: right;
 	font-size: 18px;
 	font-weight: 500;
+	color: rgb(118, 118, 118);
 }
 
 .made-in-chicago img {
