@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="34px" viewBox="0 0 44 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 71 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M43.215,0.665 C43.209,0.612 43.201,0.562 43.183,0.513 C43.168,0.467 43.147,0.427 43.123,0.386 C43.1,0.344 43.076,0.306 43.045,0.269 C43.012,0.228 42.971,0.196 42.928,0.163 C42.906,0.145 42.89,0.121 42.865,0.106 C42.851,0.098 42.835,0.098 42.82,0.091 C42.775,0.066 42.726,0.053 42.676,0.039 C42.627,0.026 42.581,0.014 42.531,0.01 C42.515,0.009 42.5,0 42.482,0 L1.518,0 C1.5,0 1.485,0.009 1.467,0.011 C1.42,0.014 1.375,0.026 1.328,0.038 C1.277,0.053 1.227,0.066 1.179,0.091 C1.166,0.098 1.15,0.098 1.136,0.106 C1.11,0.121 1.096,0.145 1.072,0.163 C1.029,0.196 0.989,0.228 0.956,0.269 C0.924,0.306 0.9,0.344 0.877,0.385 C0.853,0.427 0.832,0.467 0.816,0.513 C0.801,0.562 0.793,0.612 0.787,0.665 C0.783,0.694 0.768,0.72 0.768,0.75 L0.768,31.32 C0.768,31.734 1.105,32.07 1.518,32.07 L42.482,32.07 C42.896,32.07 43.232,31.734 43.232,31.32 L43.232,0.75 C43.232,0.72 43.219,0.694 43.215,0.665 L43.215,0.665 Z M41.102,1.5 C38.878,4.791 31.756,14.34 22,17.71 C12.244,14.34 5.123,4.791 2.898,1.5 L41.102,1.5 L41.102,1.5 Z M2.269,3.248 C4.343,6.2 8.623,11.611 14.519,15.581 C8.517,20.275 4.17,26.139 2.269,28.958 L2.269,3.248 L2.269,3.248 Z M3.006,30.57 C4.504,28.272 9.236,21.488 15.857,16.437 C17.691,17.555 19.664,18.519 21.762,19.22 C21.763,19.221 21.765,19.22 21.768,19.221 C21.842,19.245 21.92,19.258 22,19.258 C22.078,19.258 22.156,19.245 22.231,19.221 C22.232,19.22 22.234,19.221 22.236,19.22 C24.335,18.519 26.304,17.556 28.137,16.44 C34.758,21.491 39.489,28.273 40.988,30.57 L3.006,30.57 L3.006,30.57 Z M41.731,28.97 C39.836,26.156 35.486,20.285 29.476,15.584 C35.375,11.614 39.658,6.2 41.731,3.248 L41.731,28.97 L41.731,28.97 Z" id="Fill-71-Copy-2" fill="#438364" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
