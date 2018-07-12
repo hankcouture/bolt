@@ -99,6 +99,7 @@ nav h1 {
 	color: #4c90ffff;
 	letter-spacing: 1.5px;
 	font-size: 3.2em;
+	font-weight: 500;
 	margin: 0px;
 	padding: 10px 0px;
 }
@@ -209,7 +210,6 @@ nav h1 {
 	width: 100%;
 	margin: 0px auto;
 	padding: 20px 0px;
-	background-color: #f4f4f4;
 }
 
 .top {
@@ -221,6 +221,7 @@ nav h1 {
     letter-spacing: 1.5px;
     line-height: 1.2;
     font-size: 36px;
+    font-weight: 500;
     margin: 15px 0px 10px;
     width: 100%;
 }
